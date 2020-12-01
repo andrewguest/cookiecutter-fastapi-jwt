@@ -18,7 +18,7 @@ docutils==0.16
 ecdsa==0.14.1
 fastapi==0.61.2
 flake8==3.8.4
-Flask==1.0
+Flask==1.1.2
 Flask-Caching==1.9.0
 Flask-Markdown==0.3
 Frozen-Flask==0.15
